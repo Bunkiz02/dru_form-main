@@ -1,0 +1,17 @@
+{
+    "name": "tomnoi-dev/sci_dru_form",
+    "autoload": {
+        "psr-4": {
+            "TomnoiDev\\SciDruForm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prtomnoi",
+            "email": "wry.tomnoi1083@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.17"
+    }
+}
